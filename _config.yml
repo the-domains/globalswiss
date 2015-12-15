@@ -1,0 +1,28 @@
+name: Globalswiss
+favicon: null
+layout_spectrum: 0.3443189891986549
+typography_spectrum: 0.922950356034562
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.03554041520692408
+  lightness: 0.638105446472764
+  saturation: 0.8657813468016684
+  rhythmicContrast: 0.36448649130761623
+purpose: []
