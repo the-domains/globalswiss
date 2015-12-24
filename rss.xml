@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[COmpany development]]></title>
+        <description><![CDATA[COmpany development]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Dec 2015 05:43:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[company information]]></title>
+            <description><![CDATA[<article><h1>company information</h1><p>put all the companys on the world togheter</p></article>]]></description>
+            <link>undefinedcompany-information/index.html</link>
+            <guid isPermaLink="false">2d87f7e9-789f-4020-8810-8c13b0c44fe8</guid>
+            <pubDate>Thu, 24 Dec 2015 05:43:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
